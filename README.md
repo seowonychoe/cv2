@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <title>BLACKWOODENDOOR</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="blackwoodendoor/11.ico">
+    <link rel="icon" href="11.ico">
 </head>
 <body>
     <div class="group_main_img">
-        <img src="blackwoodendoor/2_edit800.png" alt="group-main">
+        <img src="2_edit800.png" alt="group-main">
     </div>
     <div class="logo">
-        <img src="blackwoodendoor/7_edit1000new.png" alt="white-logo">      
+        <img src="7_edit1000new.png" alt="white-logo">      
     </div>
     <div class="who">
         <!-- <hr></hr> -->
@@ -74,7 +74,7 @@
                     <td></td>
                     <td></td>
                     <td>
-                        <img src="blackwoodendoor/4.jpg" alt="Performance">
+                        <img src="4.jpg" alt="Performance">
                     </td>
                 </tr>
                 <!-- <tr>
